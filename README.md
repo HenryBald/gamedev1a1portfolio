@@ -1,4 +1,4 @@
-# Henry Baldwin's Game Development Portfolio
+# Henry Baldwin's Game Development Portfolio 24-25
 * First year game development student
 * Interested in coding and developing games for fun for the time being, although I intend to take development more seriously in the future
 * Very passionate about music and want to apply my love for music to video game development in some way
