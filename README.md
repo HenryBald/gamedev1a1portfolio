@@ -4,7 +4,7 @@
 * Aiming to go to NYU for college
 * Passionate student with internal motivation to do well academically
 * Typing at 75-80 WPM
-
+*Has baseline Photoshop experience
 ## Term 1 Projects
 
 ## Term 2 Projects
