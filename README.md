@@ -1,9 +1,9 @@
-# Henry Baldwin's Game Development Portfolio 24-25
-* First year game development student
+# Henry Baldwin's Game Development Portfolio 2024-25
+* First year Game Development student, class of 2028
 * Interested in coding and developing games for fun for the time being, although I intend to take development more seriously in the future
-* Very passionate about music and want to apply my love for music to video game development in some way
-* Dream college is NYU
-* Strong student with internal motivation
+* Aiming to go to NYU for college
+* Passionate student with internal motivation to do well academically
+* Typing at 75-80 WPM
 
 ## Term 1 Projects
 
